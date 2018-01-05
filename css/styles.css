@@ -1,6 +1,6 @@
 .jumbotron {
   background-color: #AFEEEE;
-  align-items: center-block;
+  text-align: justify;
 
 }
 
@@ -11,8 +11,7 @@
 
 }
 
-.jumbotron img {
-  position: sticky;
-
-
+img {
+  height: 30%;
+  width: 30%;
 }

@@ -2,7 +2,7 @@
 
 #### _Landing portfolio page to add to GitHub, 01.05.2018_
 
-#### By _By Manuela Garcia_
+#### By _Manuela Garcia_
 
 ## Description
 
