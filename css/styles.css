@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: #AFEEEE;
+  align-items: center-block;
+
+}
+
+.jumbotron h1 {
+  font-size: 300%;
+  color: red;
+  position: center;
+
+}
+
+.jumbotron img {
+  position: sticky;
+
+
+}
