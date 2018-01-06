@@ -1,17 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+.special a {
+  color: red;
+}
+
+.cool {
+  font-weight: bold;
+  font-size: 15pt;
+}
+
 .jumbotron {
   background-color: #AFEEEE;
   text-align: justify;
-
-}
-
-.jumbotron h1 {
-  font-size: 300%;
-  color: red;
-  position: center;
-
 }
 
 img {
-  height: 30%;
-  width: 30%;
+  height: 200px;
+  width: 200px;
+}
+
+.box {
+  padding: 2px;
+  margin: 10px;
+  background-color: #AFEEEE;
 }
