@@ -10,8 +10,8 @@ _This is a webpage that will become the landing page for my programming portfoli
 
 ## Setup instructions
 
-_Clone this repository: https://github.com/manuela-garcia/portfolio-landing-page.git_
-_From the project directory, open the index.html file_
+* _Clone this repository: https://github.com/manuela-garcia/portfolio-landing-page.git_
+* _From the project directory, open the index.html file_
 
 ## Support and contact details
 
